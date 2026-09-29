@@ -1,0 +1,13 @@
+# Local test and packaging output
+*.zip
+*.log
+*.tmp
+work/
+release/
+
+# Editor and operating-system metadata
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
